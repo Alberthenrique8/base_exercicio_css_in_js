@@ -1,4 +1,5 @@
 .cabecalho {
+  height: 30px;
   background-color: var(--cor-secundaria);
   color: var(--cor-principal);
   text-align: center;
